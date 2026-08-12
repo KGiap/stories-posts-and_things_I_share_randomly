@@ -369,31 +369,7 @@ Và bởi vì chúng ta tiêu thụ quá nhiều narrative dạng này, chúng t
 
 ---
 
-## X. “BẠN PHẢI CHIẾN THẮNG BẢN THÂN”
-
-Nếu sự đối mặt với thế giới bên ngoài là một cái bẫy, thì việc chuyển hướng sự đối mặt vào bên trong — được cô đọng trong khẩu hiệu: **“Chiến thắng lớn nhất là chiến thắng chính mình”** — lại là một chiến trường tàn khốc không kém.
-
-Hãy mổ xẻ mệnh đề này dưới góc độ bản thể luận. 
-
-Khi bạn nói "Tôi phải chiến thắng chính mình", bạn đã tự chia tách chủ thể tính của mình thành hai nửa:
-*   **Kẻ đi chiến đấu (Chủ thể kiểm soát):** Đại diện cho lý trí, chuẩn mực xã hội, kỷ luật, khao khát đạt được sự hoàn hảo.
-*   **Kẻ bị chiến thắng (Kẻ thù nội tại):** Đại diện cho những ham muốn tự nhiên, sự mệt mỏi, sợ hãi, các bản năng bị coi là "yếu đuối".
-
-Bằng cách này, con người hiện đại đã biến không gian nội tâm của mình thành một **chiến trường vĩnh cửu**. 
-
-Tiến trình này diễn ra như sau:
-
-$$\text{Self-control (Tự chủ)} \longrightarrow \text{Self-surveillance (Tự giám sát)} \longrightarrow \text{Self-discipline (Tự kỷ luật)} \longrightarrow \text{Self-judgment (Tự phán xét)}$$
-
-Bạn trở thành kẻ cai ngục của chính mình. Mọi biểu hiện của sự mệt mỏi, mọi mong muốn rút lui khỏi một cuộc đua tàn khốc, mọi nhu cầu né tránh tổn thương đều bị "Kẻ đi chiến đấu" bên trong bạn phát hiện và kết án là sự "yếu hèn của bản ngã".
-
-Triết gia Byung-Chul Han đã chỉ ra rằng trong xã hội thành tích hiện đại (*Performance Society*), con người không còn bị áp bách bởi một kẻ thống trị bên ngoài, mà họ tự áp bách chính mình. Chúng ta tự khai thác (*auto-exploitation*) bản thân dưới ảo tưởng rằng chúng ta đang "tự do phát triển" và "vượt qua chính mình".
-
-Sự "đối mặt với bản thân" lúc này không còn là sự tự thấu hiểu (*self-understanding*) hay tự chấp nhận (*self-acceptance*), mà biến thành một cuộc nội chiến không hồi kết. Nơi đó, bất kỳ sự xoa dịu, buông bỏ hay né tránh nào cũng bị coi là một thất bại đạo đức của bản thân trước chính mình.
-
----
-
-## XI. CÁI BẪY ĐẠO ĐỨC CỦA “BẠN CÓ THỂ, NÊN BẠN PHẢI”
+## X. CÁI BẪY ĐẠO ĐỨC CỦA “BẠN CÓ THỂ, NÊN BẠN PHẢI”
 
 Sự kết hợp giữa tư tưởng tự do cá nhân (*agency*) và định kiến đạo đức về sự đối mặt đã tạo ra một logic chuyển giao trách nhiệm cực kỳ tinh vi:
 
